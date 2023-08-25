@@ -6,7 +6,7 @@ This project aims to compare various sentence embeddings for text classification
 
 We have leveraged the following data sources for this project:
 
-1. **HackerRank** - The challenge titled "Byte The Correct Apple" was instrumental in our research, offering data to distinguish between Apple Inc. and the apple fruit. The detailed challenge, penned by PRASHANTB1984, is accessible at [HackerRank's Byte The Correct Apple Challenge](https://www.hackerrank.com/challenges/byte-the-correct-apple/problem). In particular, we adopted the text files referencing Wikipedia on both Apple Inc. and apple fruit as outlined in the challenge description.
+1. **HackerRank** - The challenge titled "Byte The Correct Apple" was applied in our research, offering data to distinguish between Apple Inc. and the apple fruit. The detailed challenge, penned by PRASHANTB1984, is accessible at [HackerRank's Byte The Correct Apple Challenge](https://www.hackerrank.com/challenges/byte-the-correct-apple/problem). In particular, we adopted the text files referencing Wikipedia on both Apple Inc. and apple fruit as outlined in the challenge description.
 
 2. **Kaggle** - Our project also employed the "Animal Mouse vs Computer Mouse" dataset available on Kaggle. This dataset provides essential insights on the differentiation between the computer mouse and its living counterpart. This dataset is shared under the CC0: Public Domain license. For a comprehensive overview or to access the dataset, you can navigate to [Kaggle's Animal Mouse vs Computer Mouse Dataset](https://www.kaggle.com/datasets/werty12121/animal-mouse-vs-computer-mouse-text-dataset?resource=download).
 
