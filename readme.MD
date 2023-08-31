@@ -1,6 +1,6 @@
 # Text Classification using Sentence Embeddings
 
-This project aims to compare various sentence embeddings for text classification. It takes two text files as inputs and classifies sentences/paragraphs from those files using three different models - BAI (Bert As A Service), Glove, and TF-IDF. The results are visually represented using different charts to compare the performance of these models.
+This project aims to compare various sentence embeddings for text classification. It takes two text files as inputs and classifies sentences/paragraphs from those files using three different models - BAAI, Glove, and TF-IDF. The results are visually represented using different charts to compare the performance of these models.
 
 ## Data Sources
 
